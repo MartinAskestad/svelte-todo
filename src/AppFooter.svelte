@@ -1,0 +1,12 @@
+<footer class="info">
+  <p>Double-click to edit a todo</p>
+  <!-- Change this out with your name and url ↓ -->
+  <p>
+    Created by
+    <a href="https://www.momarortotinon.com/">Martin Askestad</a>
+  </p>
+  <p>
+    Part of
+    <a href="http://todomvc.com">TodoMVC</a>
+  </p>
+</footer>
